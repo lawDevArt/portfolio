@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e0aa6fb3.css",
-    "main.js": "/static/js/main.b7800f95.js",
+    "main.css": "/static/css/main.c915a032.css",
+    "main.js": "/static/js/main.7b358acf.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/logo.png": "/static/media/logo.fed0862e179705725e3b.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/logingoogle.jpeg": "/static/media/logingoogle.e19c3235916e482a489d.jpeg",
+    "static/media/qrcode.jpeg": "/static/media/qrcode.33bd1792e1c5e28c0df8.jpeg",
     "static/media/header-img.svg": "/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/monka.png": "/static/media/monka.ca2cfd8637775bc83e1a.png",
     "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -14,6 +16,7 @@
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/boroboro.jpeg": "/static/media/boroboro.281903a9fde9384940a2.jpeg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
@@ -26,12 +29,12 @@
     "index.html": "/index.html",
     "static/media/arrow2.svg": "/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
-    "main.e0aa6fb3.css.map": "/static/css/main.e0aa6fb3.css.map",
-    "main.b7800f95.js.map": "/static/js/main.b7800f95.js.map",
+    "main.c915a032.css.map": "/static/css/main.c915a032.css.map",
+    "main.7b358acf.js.map": "/static/js/main.7b358acf.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0aa6fb3.css",
-    "static/js/main.b7800f95.js"
+    "static/css/main.c915a032.css",
+    "static/js/main.7b358acf.js"
   ]
 }
